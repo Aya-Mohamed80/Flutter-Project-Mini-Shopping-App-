@@ -45,6 +45,7 @@ It uses Firebase Authentication for user login/signup and Firestore for storing 
 
 ## 📂 Folder Structure
 
+```plaintext
 lib/
 │
 ├── main.dart
@@ -52,14 +53,14 @@ lib/
 ├── firebase_options.dart
 │
 ├── core/
-│   ├── widgets/           # يحتوي على الويدجيتس المخصصة للتطبيق
+│   ├── widgets/           
 │   │   └── app_widgets.dart
-│   ├── utiles/            # يحتوي على ملفات الـ Strings, Colors, وغيرها
+│   ├── utiles/           
 │   │   ├── app_strings.dart
 │   │   └── app_colors.dart
-│   ├── theme/             # ThemeBloc و ThemeData
+│   ├── theme/             
 │   │   └── theme_bloc.dart
-│   └── routes/            # AppRoutes و generateRoute
+│   └── routes/           
 │       └── app_routes.dart
 │
 ├── features/
@@ -108,7 +109,7 @@ lib/
 │       │   └── profile_repo.dart
 │       └── screens/
 │           └── profile_screen.dart
-
+```
 ---
 
 ## Screenshots
