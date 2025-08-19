@@ -115,28 +115,28 @@ lib/
 ## Screenshots
 
 - **Splash Screen**
-<img width="250" alt="splash" src="https://github.com/user-attachments/assets/e1b24d84-e3c7-496f-acd9-b84593b560ae" />
+<img width="350" alt="splash" src="https://github.com/user-attachments/assets/e1b24d84-e3c7-496f-acd9-b84593b560ae" />
 
 - **Login Screen**
-<img width="250" alt="login" src="https://github.com/user-attachments/assets/baa3cb59-f5f9-4929-8988-4fb47b579559" />
+<img width="350" alt="login" src="https://github.com/user-attachments/assets/baa3cb59-f5f9-4929-8988-4fb47b579559" />
 
 - **SignUp Screen**
-<img width="250" alt="signup" src="https://github.com/user-attachments/assets/d09fd0b0-8795-46c4-bc28-8216c89f34c7" />
+<img width="350" alt="signup" src="https://github.com/user-attachments/assets/d09fd0b0-8795-46c4-bc28-8216c89f34c7" />
 
 - **Home Screen**
-<img width="250" alt="home" src="https://github.com/user-attachments/assets/51ca3698-23f7-4cde-8027-76563aa604c8" />
+<img width="350" alt="home" src="https://github.com/user-attachments/assets/51ca3698-23f7-4cde-8027-76563aa604c8" />
 
 - **Favorites Screen**
-<img width="250" alt="favorites" src="https://github.com/user-attachments/assets/1f3d39b6-39c8-4248-9c40-2aad90f5c76e" />
+<img width="350" alt="favorites" src="https://github.com/user-attachments/assets/1f3d39b6-39c8-4248-9c40-2aad90f5c76e" />
 
 - **Profile Screen**
-<img width="250" alt="profile" src="https://github.com/user-attachments/assets/d451e460-c964-4ac5-89f0-6b2af4e7ebe1" />
+<img width="350" alt="profile" src="https://github.com/user-attachments/assets/d451e460-c964-4ac5-89f0-6b2af4e7ebe1" />
 
 - **Searching for a Product**  
-<img width="250" alt="search" src="https://github.com/user-attachments/assets/82c7525e-4936-4b41-9ad7-4fbf163ca6cd" />
+<img width="350" alt="search" src="https://github.com/user-attachments/assets/82c7525e-4936-4b41-9ad7-4fbf163ca6cd" />
 
 - **Theme Changed**
-<img width="972" alt="theme" src="https://github.com/user-attachments/assets/2246ebb9-6c95-4c0e-8a57-07badc1bb7bf" />
+<img width="350" alt="theme" src="https://github.com/user-attachments/assets/2246ebb9-6c95-4c0e-8a57-07badc1bb7bf" />
 
 ---
 
