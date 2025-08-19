@@ -115,10 +115,10 @@ lib/
 ## Screenshots
 
 - **Splash Screen**
-<img width="900" height="400" alt="splash" src="https://github.com/user-attachments/assets/e1b24d84-e3c7-496f-acd9-b84593b560ae" />
+<img width="350" height="700" alt="splash" src="https://github.com/user-attachments/assets/e1b24d84-e3c7-496f-acd9-b84593b560ae" />
 
 - **Login Screen**
-<img width="500" height="250" alt="login" src="https://github.com/user-attachments/assets/baa3cb59-f5f9-4929-8988-4fb47b579559" />
+<img width="350" height="500" alt="login" src="https://github.com/user-attachments/assets/baa3cb59-f5f9-4929-8988-4fb47b579559" />
 
 - **SignUp Screen**
 <img width="500" height="250" alt="signup" src="https://github.com/user-attachments/assets/d09fd0b0-8795-46c4-bc28-8216c89f34c7" />
