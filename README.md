@@ -148,3 +148,5 @@ lib/
 - Material Design Widgets
 
 ---
+## 🔓 License
+This project is for educational purposes and does not include a license. Feel free to use and modify for your own learning.
