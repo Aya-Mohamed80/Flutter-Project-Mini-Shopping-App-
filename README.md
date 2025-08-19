@@ -115,7 +115,7 @@ lib/
 ## Screenshots
 
 - **Splash Screen**
-<img width="500" height="250" alt="splash" src="https://github.com/user-attachments/assets/e1b24d84-e3c7-496f-acd9-b84593b560ae" />
+<img width="900" height="400" alt="splash" src="https://github.com/user-attachments/assets/e1b24d84-e3c7-496f-acd9-b84593b560ae" />
 
 - **Login Screen**
 <img width="500" height="250" alt="login" src="https://github.com/user-attachments/assets/baa3cb59-f5f9-4929-8988-4fb47b579559" />
